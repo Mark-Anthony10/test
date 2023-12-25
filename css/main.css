@@ -25,24 +25,24 @@ img {
 
 /* Homepage */
 
-.navbar ul {
+.navbar ul{
     list-style-type: none;
     background-color: aqua;
     padding: 0px;
     margin: 0px;
 }
 
-.navbar a {
+.navbar a{
     color: white;
     text-decoration: none;
     padding: 15px;
 }
 
-.navbar a:hover {
+.navbar a:hover{
     background-color: blue;
 }
 
-.navbar 
+
 
 /* .intro {
     transform: translateY(22vh);
@@ -66,11 +66,11 @@ img {
     font-size: 15px; 
 } */
 
-br {
-            display: block; /* makes it have a width */
-            content: " "; /* clears default height */
-            line-height: 5pt; /* change this to whatever height you want it */
-} 
+/* br {
+            display: block; 
+            content: " "; 
+            line-height: 5pt;
+}  */
 
 
 /* Profile picture */
