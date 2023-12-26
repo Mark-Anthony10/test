@@ -1,4 +1,4 @@
-/* html, body {
+html, body {
     height: 100%;
 }
 
@@ -20,7 +20,7 @@ img {
     max-width: 30%;
     float: left;
     margin: 0 50px;
-} */
+}
 
 
 /* Homepage */
